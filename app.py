@@ -115,7 +115,7 @@ elif page=="Compare each model":
           plt.title("Model accuracy")
            
           st.pyplot(fig)
-          col1, col2 = st.columns(2)
+          
 
           
       compare_models()
